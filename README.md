@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Diese Repo enthält Code für die Publikation:
+Dieses Repo enthält Code für die Publikation:
 
 Nick Haupka, 2024. Analyse der Abdeckung wissenschaftlicher Publikationen auf Semantic Scholar im Kontext von Open Access
 
